@@ -40,6 +40,5 @@ If the port 3000 in use you can change it in .env file
 - `npm run dev` - Start the development server with hot-reload
 - `npm test` - Run tests (not configured yet)
 
-## API Endpoints
-
-- `GET /` - Welcome message 
+## Chat history can be found on file:
+/cursor_setting_up_node_js_and_express_p.md
